@@ -1,0 +1,26 @@
+{
+  "name": "javascript-unit-testing-with-npm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Christianjuth/Javascript-Unit-Testing-with-NPM.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Christianjuth/Javascript-Unit-Testing-with-NPM/issues"
+  },
+  "homepage": "https://github.com/Christianjuth/Javascript-Unit-Testing-with-NPM#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-coffee": "^1.0.0",
+    "load-grunt-tasks": "^3.5.2",
+    "mocha": "^3.0.2",
+    "time-grunt": "^1.4.0"
+  }
+}
