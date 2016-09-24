@@ -12,7 +12,7 @@ module.exports = (grunt)->
       compile:
         files:
           'dist/bs-functions.js': 'coffee/bs-functions.coffee'
-          'dist/test.js':         'coffee/test.coffee'
+          'test/test.js':         'coffee/test.coffee'
 
   # set tasks
   grunt.registerTask('default', ['coffee'])
