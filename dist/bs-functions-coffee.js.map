@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "bs-functions-coffee.js",
+  "sourceRoot": "../coffee/",
+  "sources": [
+    "bs-functions.coffee"
+  ],
+  "names": [],
+  "mappings": "AAAA;AAAA,MAAA;;EAAM;;;0BACJ,GAAA,GAAK,SAAC,CAAD,EAAG,CAAH;aACH,CAAA,GAAE;IADC;;0BAGL,QAAA,GAAU,SAAC,CAAD,EAAG,CAAH;aACR,CAAA,GAAE;IADM;;0BAGV,QAAA,GAAU,SAAC,CAAD,EAAG,CAAH;aACR,CAAA,GAAE;IADM;;0BAGV,MAAA,GAAQ,SAAC,CAAD,EAAG,CAAH;aACN,CAAA,GAAE;IADI;;;;;;EAGV,MAAM,CAAC,OAAP,GAAiB,IAAI;AAbrB"
+}
